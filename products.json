@@ -1,0 +1,50 @@
+{
+    "P001": {
+        "name": "Rice",
+        "category": "Grocery",
+        "price": 60.0,
+        "stock": 49
+    },
+    "P002": {
+        "name": "Milk",
+        "category": "Dairy",
+        "price": 30.0,
+        "stock": 28
+    },
+    "P003": {
+        "name": "Bread",
+        "category": "Bakery",
+        "price": 40.0,
+        "stock": 30
+    },
+    "P004": {
+        "name": "Sugar",
+        "category": "Grocery",
+        "price": 45.0,
+        "stock": 31
+    },
+    "P005": {
+        "name": "Soap",
+        "category": "Personal Care",
+        "price": 35.0,
+        "stock": 24
+    },
+    "P006": {
+        "name": "Shampoo",
+        "category": "Personal Care",
+        "price": 120.0,
+        "stock": 20
+    },
+    "p007": {
+        "name": "Bottle",
+        "category": "Essential",
+        "price": 25.0,
+        "stock": 45
+    },
+    "p008": {
+        "name": "conditioner",
+        "category": "personal care",
+        "price": 150.0,
+        "stock": 56
+    }
+}
